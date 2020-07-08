@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 ## Who Am I?
 My name is **Divyanshu Sharma**. Data Scientist by profession.
 
